@@ -18,6 +18,8 @@ It can be called three different ways:
 *"Easy to learn, hard to use"*
 
  * [Tutorial]
+ * [List of constants]
  
 [nondeterministic language]: https://en.wikipedia.org/wiki/Esoteric_programming_language#Nondeterministic_language
 [Tutorial]: https://github.com/LyamBoylan/Tarpit/wiki/tutorial
+[List of constants]: https://github.com/LyamBoylan/Tarpit/wiki/constants
