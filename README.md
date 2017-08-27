@@ -17,9 +17,13 @@ It can be called three different ways:
 
 *"Easy to learn, hard to use"*
 
+# Documentation
  * [Tutorial]
  * [List of constants]
- 
+ * [Hello World]
+
+
+[Tutorial]:https://github.com/LyamBoylan/Tarpit/wiki/tutorial-1
+[List of constants]:https://github.com/LyamBoylan/Tarpit/wiki/constants
+[Hello World]:https://github.com/LyamBoylan/Tarpit/wiki/hello-world
 [nondeterministic language]: https://en.wikipedia.org/wiki/Esoteric_programming_language#Nondeterministic_language
-[Tutorial]: https://github.com/LyamBoylan/Tarpit/wiki/tutorial-1
-[List of constants]: https://github.com/LyamBoylan/Tarpit/wiki/constants
