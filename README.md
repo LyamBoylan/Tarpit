@@ -21,5 +21,5 @@ It can be called three different ways:
  * [List of constants]
  
 [nondeterministic language]: https://en.wikipedia.org/wiki/Esoteric_programming_language#Nondeterministic_language
-[Tutorial]: https://github.com/LyamBoylan/Tarpit/wiki/tutorial
+[Tutorial]: https://github.com/LyamBoylan/Tarpit/wiki/tutorial-1
 [List of constants]: https://github.com/LyamBoylan/Tarpit/wiki/constants
