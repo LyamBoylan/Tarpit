@@ -17,7 +17,6 @@ It can be called three different ways:
 
 *"Easy to learn, hard to use"*
 
-# Documentation
  * [Tutorial]
  * [List of constants]
  * [Hello World]
